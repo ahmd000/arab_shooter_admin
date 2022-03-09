@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>771731107327-60bt4g55edr15ti20s6vciplk69p955k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.771731107327-60bt4g55edr15ti20s6vciplk69p955k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJ3RwLcn4DGszdVySZH9nXz1kIyQMZXGg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>771731107327</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.arabShooterAdmin</string>
+	<key>PROJECT_ID</key>
+	<string>arabshooter-9eb41</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arabshooter-9eb41.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:771731107327:ios:2b97e76ab01dfbb5438bca</string>
+</dict>
+</plist>

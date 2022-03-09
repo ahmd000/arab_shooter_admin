@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "771731107327",
+    "project_id": "arabshooter-9eb41",
+    "storage_bucket": "arabshooter-9eb41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771731107327:android:e6721e0111b60975438bca",
+        "android_client_info": {
+          "package_name": "com.app.arab_shooter_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771731107327-j5d8p0r4rhn6m1f6dljmm14a0ncmspar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvymCb0iB8XU3Ml5XEJjuvXQ-qFxZSdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771731107327-j5d8p0r4rhn6m1f6dljmm14a0ncmspar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771731107327-60bt4g55edr15ti20s6vciplk69p955k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.arabShooterAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
