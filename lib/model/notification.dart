@@ -7,6 +7,7 @@ class NotificationModel {
   String? imageUrlNotify;
 
   NotificationModel();
+  // NotificationModel();
 
   NotificationModel.fromMap(Map<String, dynamic> documentMap) {
     // uid = map.id;
